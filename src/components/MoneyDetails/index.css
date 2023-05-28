@@ -1,0 +1,29 @@
+.bg-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.money-det-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 15px;
+  background-color: #84cc16;
+  width: 100%;
+  margin: 20px;
+}
+.a2-card {
+  background-color: #cffafe;
+}
+.a3-card {
+  background-color: #ede9fe;
+}
+.money-det-pic {
+  height: 100px;
+}
+.para {
+  font-size: 14px;
+}
+.head {
+  font-size: 20px;
+}
